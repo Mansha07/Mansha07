@@ -1,7 +1,3 @@
-##### try{</br>
-##### System.out.println("Github:where coders are mostly found")}</br>
-##### except(Exception c){</br>
-##### System.out.println("If not here go and check at spotify")}
 
 <h1 align="center">Hi Coders<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
