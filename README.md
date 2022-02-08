@@ -21,3 +21,15 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 
 <p align="left"> <a href="https://twitter.com/mansha0709" target="blank"><img src="https://img.shields.io/twitter/follow/mansha0709?logo=twitter&style=for-the-badge" alt="mansha0709" /></a> </p>
 <p align="center">
+ - 📫 How to reach me **manshabatra0709@gmail.com**
+<br><br>
+<hr>
+
+<h3 align="center">You can connect with me at:</h3>
+<p align="center">
+<a href="https://twitter.com/mansha0709" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="mansha0709" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mansha-7a9n/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Mansha Batra" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/mansha.07_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mansha.07_" height="50" width="50" /></a>
+</p>
+
+<h2 align="center">Thank you for visiting my profile</h2>
