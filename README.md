@@ -31,5 +31,9 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 <a href="https://www.linkedin.com/in/mansha-7a9n/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Mansha Batra" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/mansha.07_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mansha.07_" height="50" width="50" /></a>
 </p>
+<hr>
 
+<p align="center">
+  <img src="https://github.com/Mansha07/Mansha07/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <h2 align="center">Thank you for visiting my profile</h2>
