@@ -10,6 +10,7 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 - 🔭 I’m currently working on Cloud services like AWS, Azure and Google Cloud
 - 🌱 I’m currently learning JAVA programming 
 - 👯 I’m looking to collaborate on projects and research papers 
+- 🌸I am currently core team member at azure developer community Dehradun
 --><a href="https://github.com/Mansha07">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Mansha07&label=Profile%20views&color=0e75b6&style=flat" alt="Mansha07" /> </p>
 <p></a>
