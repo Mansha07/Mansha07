@@ -7,6 +7,8 @@
 A 2nd-year student pursuing Bachelors in Computer science studies with a specialization in CLoud computing and specialization, from UPES Dehradun.
 </h3>
 
+
+
 - 🔭 I’m currently working on Cloud services like AWS, Azure and Google Cloud
 - 🌱 I’m currently learning JAVA programming 
 - 👯 I’m looking to collaborate on projects and research papers 
