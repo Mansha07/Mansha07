@@ -4,7 +4,7 @@
          height="45"
          width="45" />, I'm Mansha Batra</h1>
 <h3 align="center">
-A 2nd-year student pursuing Bachelors in Computer science studies with a specialization in CLoud computing and specialization, from UPES Dehradun.
+A 3rd-year student pursuing Bachelors in Computer science studies with a specialization in CLoud computing and specialization, from UPES Dehradun.
 </h3>
 
 
