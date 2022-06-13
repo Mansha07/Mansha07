@@ -39,4 +39,4 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 <p align="center">
   <img src="https://github.com/Mansha07/Mansha07/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<h2 align="center">Thank you for visiting my profile</h2>
+<h2 align="center">Thank you for visiting my profile <3</h2>
