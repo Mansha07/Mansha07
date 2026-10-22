@@ -8,7 +8,7 @@ backend, cloud deployments, and production observability.
 
 ### About Me
 
-- 💻 Software Engineer at **Ericsson**, based in Bengaluru, with **2+ years of experience**.
+- 💻 Software Engineer at **Ericsson**, based in Bengaluru, with **~3+ years of experience**.
 - 🛠️ Working with **React, Ember, Python, and Go** across large-scale telecom platforms.
 - ☁️ Contributing to a **GCP-to-AWS migration**, CI/CD pipelines, and Kubernetes deployments.
 - 📊 Hands-on experience with **Prometheus, Grafana, Datadog, and production incident troubleshooting**.
